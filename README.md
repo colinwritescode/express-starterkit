@@ -1,1 +1,1 @@
-### Slayer of Dragons
+### A Simple NodeJS, Express, & Typescript Backend StarterKit
