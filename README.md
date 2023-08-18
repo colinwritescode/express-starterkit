@@ -1,1 +1,1 @@
-### A Simple NodeJS, Express, & Typescript Backend StarterKit
+### A Simple NodeJS & Express Backend TypeScript StarterKit
